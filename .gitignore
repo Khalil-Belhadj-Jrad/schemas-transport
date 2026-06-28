@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+figures/
+*.pkl
+.DS_Store
